@@ -1,0 +1,6 @@
+- 1 x 555
+- 3 x 74LS90
+- 3 x 74LS92
+- 1 x 74HC32
+- 1 x 74HC11
+- rezistori de precizie
